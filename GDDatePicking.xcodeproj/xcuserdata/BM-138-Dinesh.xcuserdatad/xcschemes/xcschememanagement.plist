@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>GDDatePicking.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>85B13BE11F7A37E10091BAD9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>85B13BFA1F7A37E20091BAD9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>85B13C051F7A37E20091BAD9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
