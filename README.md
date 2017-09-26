@@ -9,3 +9,8 @@ This is a combined version of DIDatePicker.
    And This Method Will Give you the Array of dates between two dates
    
 ```- (NSMutableArray*)fillDatesFromDate:(NSDate *)fromDate toDate:(NSDate *)toDate```
+
+
+![image](https://raw.githubusercontent.com/DineshGurrapu/GDDatePicker/master/images/1.png)
+Format: ![Alt Text](url)
+
