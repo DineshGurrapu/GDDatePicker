@@ -11,6 +11,12 @@ This is a combined version of DIDatePicker.
 ```- (NSMutableArray*)fillDatesFromDate:(NSDate *)fromDate toDate:(NSDate *)toDate```
 
 
-![image](https://raw.githubusercontent.com/DineshGurrapu/GDDatePicker/master/images/1.png)
-Format: ![Alt Text](url)
+
+
+![image1](https://raw.githubusercontent.com/DineshGurrapu/GDDatePicker/master/images/1.png)
+
+
+![image2](https://raw.githubusercontent.com/DineshGurrapu/GDDatePicker/master/images/2.png)
+
+
 
